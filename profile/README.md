@@ -1,3 +1,3 @@
 <a href="https://coven.engineering">
-    <img src="./logo.svg" height="90" />
+    <img src="./logo.svg" />
 </a>
