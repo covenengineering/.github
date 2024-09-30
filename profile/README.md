@@ -1,3 +1,11 @@
 [![Coven Engineering logo](./logo.svg)](https://coven.engineering/)
 
-Soon
+Some of our libraries:
+
+- 🪞 [`@coven/compare`](https://jsr.io/@coven/compare) — Minimalistic deep comparison.
+- 📖 [`@coven/constants`](https://jsr.io/@coven/constants) — Shared constants scrolls.
+- 💫 [`@coven/parsers`](https://jsr.io/@coven/parsers) — Parsing charms.
+- 🛡️ [`@coven/predicates`](https://jsr.io/@coven/predicates) — Predicate wards.
+- 🖌️ [`@coven/terminal`](https://jsr.io/@coven/terminal) — Delightfully simple terminal text styles.
+- 📚 [`@coven/types`](https://jsr.io/@coven/types) — Arcane types codex.
+- 🪄 [`@coven/utils`](https://jsr.io/@coven/utils) — Utility spells.
