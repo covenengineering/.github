@@ -6,6 +6,7 @@ Some of our libraries:
     comparison.
 -   📖 [`@coven/constants`](https://jsr.io/@coven/constants) — Shared constants
     scrolls.
+-   🧙🏻‍♀️ [`@coven/expression`](https://jsr.io/@coven/expression) — Magically build regular expressions.
 -   🌪️ [`@coven/iterables`](https://jsr.io/@coven/iterables) — Iteration
     rituals.
 -   💀 [`@coven/math`](https://jsr.io/@coven/math) — Math witchcraft.
